@@ -1,0 +1,7 @@
+Page {    
+  background: #cfeeff;    
+}    
+.canvas{  
+  width: 100%;  
+  height: 680rpx;  
+} 

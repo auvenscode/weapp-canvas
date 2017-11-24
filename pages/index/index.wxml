@@ -1,0 +1,3 @@
+<view class="canvas-wrap">
+<canvas bindtouchstart="tapFn" canvas-id="firstCanvas"></canvas>
+</view>
